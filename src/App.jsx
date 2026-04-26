@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Products from "./pages/Products";
 import Users from "./pages/Users";
-import Harry from "./pages/harry";
+import Harry from "./pages/Harry";
 import Favorite from "./pages/Favorite";
 import Footer from "./components/Footer";
 export default function App() {
