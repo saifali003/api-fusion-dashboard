@@ -1,16 +1,33 @@
-# React + Vite
+# 🚀 API Fusion Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive dashboard built with **React + Redux Toolkit + Tailwind CSS** that integrates multiple APIs into a single interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🔥 Features
 
-## React Compiler
+* 📦 Fetch and display data from multiple APIs
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+  * Products API
+  * Users API
+  * Harry Potter API
 
-## Expanding the ESLint configuration
+* 🔍 Global Search across all pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ❤️ Add / Remove Favorites
+
+* ⚡ Optimized API fetching (no unnecessary calls)
+
+* 📱 Fully Responsive UI (Tailwind CSS)
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* Redux Toolkit
+* Tailwind CSS
+* Axios
+* React Router
+
+Project-link :- https://api-fusion-dashboard-ta8t.vercel.app/
